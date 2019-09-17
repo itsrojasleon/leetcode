@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <h1>1. Two Sum</h1>
   <a href="https://leetcode.com/problems/two-sum" target="_blank">two sum problem</a>
 </div>
