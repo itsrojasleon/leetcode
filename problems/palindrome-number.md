@@ -1,6 +1,6 @@
 <div align="center">
   <h1>9. Palindrome Number</h1>
-  <a href="https://leetcode.com/problems/palindrome-number/" target="_blank"></a>
+  <a href="https://leetcode.com/problems/palindrome-number/" target="_blank">palindrome number problem</a>
 </div>
 
 ### Instructions
