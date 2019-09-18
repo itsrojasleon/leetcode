@@ -1,6 +1,6 @@
 <div align="center">
   <h1>14. Longest Common Prefix</h1>
-  <a href="https://leetcode.com/problems/longest-common-prefix/" target="_blank"></a>
+  <a href="https://leetcode.com/problems/longest-common-prefix/" target="_blank">longest common prefix problem</a>
 </div>
 
 ### Instructions
